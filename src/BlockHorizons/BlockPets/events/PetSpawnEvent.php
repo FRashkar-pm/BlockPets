@@ -3,6 +3,7 @@ declare(strict_types = 1);
 
 namespace BlockHorizons\BlockPets\events;
 
+use pocketmine\entity\Living;
 use pocketmine\event\Cancellable;
 use pocketmine\event\CancellableTrait;
 use pocketmine\player\Player;
